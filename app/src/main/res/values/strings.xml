@@ -1,0 +1,6 @@
+<resources>
+    <string name="AppName">UserInformationCollector</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">工具箱</string>
+    <string name="welcome">"Welcome !"</string>
+</resources>
